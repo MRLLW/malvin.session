@@ -57,22 +57,22 @@ router.get('/', async (req, res) => {
 
                let MALVIN_KING_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃ᴍᴀʟᴠɪɴ-ᴍᴅ SESSION IS 
+┃LLW MD V1 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘⚡ ᴍᴀʟᴠɪɴ-ᴋɪɴɢ ⚡𖥘
+❶ || Creator = 𖥘⚡ LLW ⚡𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+❷ || https://whatsapp.com/channel/0029Vb0s10t6BIEm7YKTHm3R
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/263780166288
+❸ || Owner = https://wa.me/94705564619
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || Bot Repo = https://github.com/kingmalvn/LORD-MD 
+❺ || Bot Repo = https://github.com/MRLLW/LLW-MD
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || YouTube = https://www.youtube.com/@malvintech2 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©2024-2099 ᴍᴀʟᴠɪɴ-ᴋɪɴɢ_`
+❻ || YouTube = https://www.youtube.com/@GAMINGLLWFF
+▬▬▬▬▬▬▬▬▬▬▬▬▬
+©2024-2099 LLW MD`
  await Pair_Code_By_Malvin_King.sendMessage(Pair_Code_By_Malvin_King.user.id,{text:MALVIN_KING_TEXT},{quoted:session})
  
 
